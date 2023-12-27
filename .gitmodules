@@ -1,0 +1,6 @@
+[submodule "QuizIt-backend"]
+	path = QuizIt-backend
+	url = https://github.com/hichamDev55/QuizIt-backend
+[submodule "QuizIt"]
+	path = QuizIt
+	url = https://github.com/hichamDev55/QuizIt
